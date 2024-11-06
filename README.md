@@ -27,12 +27,6 @@ This is a responsive and interactive website designed to showcase a portfolio. T
 - Bootstrap Studio: For efficient layout design and front-end development.
 - Bootstrap Framework: To ensure a mobile-first, responsive, and sleek design.
 
-## Getting Started
-To view or modify this project locally, follow these steps:
-1. Clone the repository using `git clone [repository URL]`.
-2. Open the project in your preferred code editor or Bootstrap Studio.
-3. Launch `index.html` in your browser to explore the website.
-
 ## Special Features
 - Lightbox Integration: View images in a pop-up, full-screen overlay for a more engaging experience.
 - Form Validation: Ensure correct and complete user input on the contact form.
